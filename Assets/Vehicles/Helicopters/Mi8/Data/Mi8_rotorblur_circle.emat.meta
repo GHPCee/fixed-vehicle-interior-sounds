@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{032E0D89505B733F}Assets/Vehicles/Helicopters/Mi8/Data/Mi8_rotorblur_circle.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

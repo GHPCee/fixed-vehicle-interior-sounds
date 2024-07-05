@@ -1,0 +1,4 @@
+MatPBRBasic : "{032E0D89505B733F}Assets/Vehicles/Helicopters/Mi8/Data/Mi8_rotorblur_circle.emat" {
+ OpacityMap "{FE8EC0CDEAD3F27E}Assets/Vehicles/Helicopters/Mi8/Data/mi8_no_shadow_rotor_main_blur.edds"
+ HeightMap "{FE8EC0CDEAD3F27E}Assets/Vehicles/Helicopters/Mi8/Data/mi8_no_shadow_rotor_main_blur.edds"
+}

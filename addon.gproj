@@ -1,0 +1,8 @@
+GameProject {
+ ID "FixedVehicleInteriorSounds"
+ GUID "61A6374EF871C0E3"
+ TITLE "Fixed Vehicle Interior Sounds"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

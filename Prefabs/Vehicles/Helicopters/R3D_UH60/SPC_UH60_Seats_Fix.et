@@ -1,0 +1,42 @@
+GenericEntity : "{A507D9AE39652BD6}Prefabs/Vehicles/Core/Vehicle_Part_Base.et" {
+ ID "4B42E71698F5739C"
+ components {
+  SCR_BaseCompartmentManagerComponent "{610B2D221D1ED273}" {
+   CompartmentSlots {
+    CargoCompartmentSlot BenchSeat_00 {
+     BaseCoverage 0.25
+    }
+    CargoCompartmentSlot BenchSeat_01 {
+     BaseCoverage 0.25
+    }
+    CargoCompartmentSlot BenchSeat_02 {
+     BaseCoverage 0.25
+    }
+    CargoCompartmentSlot BenchSeat_03 {
+     BaseCoverage 0.25
+    }
+    CargoCompartmentSlot BenchSeat_04 {
+     BaseCoverage 0.25
+    }
+    CargoCompartmentSlot BenchSeat_05 {
+     BaseCoverage 0.25
+    }
+    CargoCompartmentSlot BenchSeat_06 {
+     BaseCoverage 0.25
+    }
+    CargoCompartmentSlot BenchSeat_07 {
+     BaseCoverage 0.25
+    }
+    CargoCompartmentSlot BenchSeat_08 {
+     BaseCoverage 0.25
+    }
+    CargoCompartmentSlot BenchSeat_09 {
+     BaseCoverage 0.25
+    }
+    CargoCompartmentSlot BenchSeat_10 {
+     BaseCoverage 0.25
+    }
+   }
+  }
+ }
+}
